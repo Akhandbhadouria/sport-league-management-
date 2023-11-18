@@ -197,7 +197,7 @@ top: 1px;
     height: auto;
 }
 
-/* Styling for the overlay background */
+
 .overlay {
     display: none;
     position: fixed;
@@ -209,7 +209,7 @@ top: 1px;
     z-index: 900;
 }
 
-/* Styling for the close button */
+
 .close-btn {
     position: absolute;
     top: 10px;
